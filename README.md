@@ -1,2 +1,2 @@
 # Floodfill
-This program runs a simple floodfill alorithum.
+This program runs a simple floodfill algorithm.
